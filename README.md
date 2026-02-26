@@ -2,6 +2,10 @@
 IronHack Machine Learning Project by team Google Brain ( Jussara Gaspar, Rodrigo Quintiliano and Sana Aarsman)
 
 
+Presentation link:
+
+https://www.canva.com/design/DAHCOvhX0pg/xtRFFdykZOoTDLxXRo722w/edit?utm_content=DAHCOvhX0pg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Domain meaning:
 
 Age: age of the patient [years]
