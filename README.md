@@ -1,6 +1,9 @@
 # ML Project - Google Brain
 IronHack Machine Learning Project by team Google Brain ( Jussara Gaspar, Rodrigo Quintiliano and Sana Aarsman)
 
+Our goal was to explore whether machine learning can help identify patients at risk earlier, while also considering diagnostic cost and accessibility.
+We analyzed a heart disease dataset and developed several models to test how well different types of clinical information can predict heart disease. To demonstrate a potential real-world application, we also built a Streamlit app that allows users to estimate heart disease risk based on the model.
+
 
 Presentation link:
 
